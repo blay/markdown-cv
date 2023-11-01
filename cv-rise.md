@@ -14,7 +14,6 @@ RISE Research Institutes of Sweden
 ## Positions
 
 - Senior Researcher, RISE Research Institutes of Sweden, Prototyping Societies.
-- Ph.D Candidate, Sociology of Law, Lund University.
   
 ## Selected Research Projects
 
@@ -162,13 +161,13 @@ group-to-group communication.
 
 ### Journals and Book Chapters
 
-Eriksson, M., Nilsson, E. M., & Lundälv, J. (2023). A Scoping Review of Research Exploring Working Life Practices of People with Disabilities During the COVID-19 Pandemic (1). 25(1), Article 1. https://doi.org/10.16993/sjdr.1012
+Eriksson, M., Nilsson, E. M., & Lundälv, J. (2023). *A Scoping Review of Research Exploring Working Life Practices of People with Disabilities During the COVID-19 Pandemic* (1). 25(1), Article 1. https://doi.org/10.16993/sjdr.1012
 
 
 
-Lundälv, J., Nilsson, E., & Eriksson, M. (2022). Covid-19 Pandemic Coping Strategies in a Complex Landscape of Crisis Communication: A Participatory Study with Disability Organisations in Sweden. Baltic Screen Media Review, 10, 140–161. https://doi.org/10.2478/bsmr-2022-0010
+Lundälv, J., Nilsson, E., & Eriksson, M. (2022). *Covid-19 Pandemic Coping Strategies in a Complex Landscape of Crisis Communication: A Participatory Study with Disability Organisations in Sweden*. Baltic Screen Media Review, 10, 140–161. https://doi.org/10.2478/bsmr-2022-0010
 
-Nilsson, E., Lundälv, J., & Eriksson, M. (2022). Design opportunities for future development of crisis communication technologies for marginalised groups – Co-designing with Swedish disability organisations. Journal of Enabling Technologies. https://doi.org/10.1108/JET-01-2022-0006
+Nilsson, E., Lundälv, J., & Eriksson, M. (2022). *Design opportunities for future development of crisis communication technologies for marginalised groups – Co-designing with Swedish disability organisations*. Journal of Enabling Technologies. https://doi.org/10.1108/JET-01-2022-0006
 
 Hemström, Kerstin, Myrén, Per, Gillberg Daniel & Eriksson Magnus (2021) 'Engaging people of different needs to create a better city for all: FunkTek' in Hemström, Kerstin AND Simon, David AND Palmer, Henrietta AND Perry, Beth AND Pork, Merritt (Ed.) *Transdisciplinary Knowledge Co-production: A Guide for Sustainable Cities*
 
@@ -206,9 +205,11 @@ Eriksson, Magnus & Nilsson, Elisabeth (2020) '72 Hours Offline: Reliance of Real
 
 "Future Internet beyond Copyright." Future Internet Assembly, Ghent, 2010.
     
+<div class="page-break"></div>
+
 ### Other Publications
 
-Lundälv, Jörgen, Eriksson, Magnus, & Nilsson, Elisabet. M. (2023). *Working life of people with disabilities during the Covid-19 pandemic An interview study conducted in Sweden.* University of Gothenburg.
+Lundälv, Jörgen, Eriksson, Magnus, & Nilsson, Elisabet M. (2023). *Working life of people with disabilities during the Covid-19 pandemic An interview study conducted in Sweden*. University of Gothenburg.
 
 European Commission. 2022. *[Opportunities and Challenges of Artificial Intelligence (AI) Technologies for the Cultural and Creative Sectors](https://issuu.com/agenceculturelle/docs/kk0122068enn.en)*.
 
@@ -221,8 +222,6 @@ Eriksson, Magnus. 2016. *[Funktek Forskningsrapport 2.0](http://www.funktek.se)*
 Eriksson, Magnus. 2014. *[Acceleration, Piratbyrån och Manifesta 7](http://paletten.net/konsttidskriften-paletten-295/)*. Paletten, (295).
 
 Eriksson, Magnus. 2012. *[Political Participation Among Youth in the Edgeryders Project](http://www.scribd.com/doc/113483488/Political-participation-among-youth-in-the-Edgeryders-project)*. Strasbourg: Council of Europe.
-
-<div class="page-break"></div>
 
 ## Invited Talks
 
@@ -265,38 +264,6 @@ Social Innovation in a Digital Context (MA Course), Lund University Internet Ins
 Prototyping in Interaction Design (MA course), IT-University of Gothenburg, 2012-2016.
 
 To tell the Truth (MA course), Konstfack University College of Art, Stockholm, 2007.
-
-## Art, Exhibitions, group shows
-
-F.A.T. GOLD: SF, Gray Area, San Fransisco, 2015.  
-
-Piratbyrån and Friends, Furtherfield, London, 2014  
-
-GIF and the City, Piksel, Bergen, 2013.  
-
-GIF and the City, Gwangju Media Festival, Gwangju, 2013.  
-
-F.A.T. GOLD, Eyebeam, New York, 2013.  
-
-SNEL HEST, Alingsås konsthall, Alingsås, 2012.  
-
-Fuck Google, Transmediale, Berlin, 2011.  
-
-Lecture Performance, Fotodokumenti 02, Belgrade, 2010.  
-
-Object-oriented Therapy Center, Interactivos ’10, Belo Horizonte, 2010.  
-
-Embassy of Piracy, Venice Biennial, Venice, 2009.  
-
-Award of Distinction, Ars Electronica, Linz, 2009.  
-
-Shuffle == Terror, Transmediale, Berlin, 2009.  
-
-S23M, Manifesta 7, Bolzano, 2008.  
-
-S23X, HAIP 08, Ljubljana, 2008.  
-
-Ownage, Who Makes and Owns Your Work, Stockholm, 2007.
 
 <!-- ### Footer
 
